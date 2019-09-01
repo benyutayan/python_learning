@@ -1,4 +1,7 @@
-from itertools import *
+# -*- coding:utf-8 -*-
+
+
+from itertools import chain
 
 list1 = chain(range(0,3),range(0,4)) 
 print(list1)
@@ -7,3 +10,4 @@ print(list1)
 list2 = list(list1)
 print(list2)
 #[0, 1, 2, 0, 1, 2, 3]
+
