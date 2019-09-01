@@ -5,7 +5,7 @@ sorted(),
 filter(),
 map(),
 reduce()
-
+  
 '''
 
 from functools import reduce
@@ -61,3 +61,7 @@ print(L1)
     
 
 
+'''
+printjs;dlsdksd
+
+'''
